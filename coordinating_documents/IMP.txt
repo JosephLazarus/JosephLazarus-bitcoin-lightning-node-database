@@ -1,0 +1,8 @@
+API ID - ynmzigd9c5wciqdt
+API Key - *
+
+URL - btcpay750335.lndyn.com
+server - ubuntu@btcpay983737.lndyn.com/
+
+ssh passpharse - *
+
