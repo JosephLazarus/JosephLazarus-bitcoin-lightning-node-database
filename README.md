@@ -6,7 +6,11 @@ Creating Database from data gathered on the Lightning Network
 2. https://github.com/btcpayserver/btcpayserver/tree/master/BTCPayServer.Data (specifically on server data)
 3. https://docs.btcpayserver.org/Troubleshooting/  (BTC Pay documentation)
 
-
+## Helpful links for server migrations and setups
+1. https://eagertoit.com/2019/05/23/data-migration-postgres-neo4j/ (migrate from pstgresql to neo4j)
+2. https://github.com/datawrangl3r/pg2mongo (migrate from postgresql to mongo db)
+3. https://www.safe.com/convert/postgresql/mongodb/ (software with free trial for postgresql to mongo db)
+4. https://medium.com/containerum/how-we-migrated-data-from-postgresql-to-mongodb-6211886c5944 (more manual process step by step for postgres to mongo)
 	
 
 
