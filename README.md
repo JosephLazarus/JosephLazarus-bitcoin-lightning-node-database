@@ -11,6 +11,7 @@ Creating Database from data gathered on the Lightning Network
 2. https://github.com/datawrangl3r/pg2mongo (migrate from postgresql to mongo db)
 3. https://www.safe.com/convert/postgresql/mongodb/ (software with free trial for postgresql to mongo db)
 4. https://medium.com/containerum/how-we-migrated-data-from-postgresql-to-mongodb-6211886c5944 (more manual process step by step for postgres to mongo)
+5. https://stackoverflow.com/questions/47424716/populating-postgresql-db-using-bitcoind-rpcs-and-api (Populating PostgreSQL DB using bitcoind RPCs and API)
 	
 
 
