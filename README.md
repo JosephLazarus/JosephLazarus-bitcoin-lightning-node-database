@@ -1,6 +1,9 @@
 # JosephLazarus-bitcoin-lightning-node-database
 Creating Database from data gathered on the Lightning Network
 
+## Support our Project by Donating here:
+bitcoin:bc1q6r4yex5mx6830y655zcufpx9uhen9ge6v5mtmq
+
 ## Helpful links to BTCPay 
 1. https://github.com/btcpayserver  (master directory)
 2. https://github.com/btcpayserver/btcpayserver/tree/master/BTCPayServer.Data (specifically on server data)
